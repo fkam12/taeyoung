@@ -1,7 +1,7 @@
 # gbot (GO culture 프로젝트의 챗봇)
 ### 제작기간 2017.07.01 ~ 2017.09.20
 
-gbot은 [facebook][facebook]에서 만나 보실 수 있습니다.
+gbot은 규칙 기반의 챗봇입니다. [facebook][facebook]에서 만나 보실 수 있습니다.
 
 [Hubot][hubot] 봇 프레임워크로 [coffeescript][coffee]를 바탕으로 제작하였습니다.
 
@@ -32,14 +32,11 @@ gbot 사용 설명서 `도움`.
     나 : 오늘|내일|모레|다음주 '지역'날씨는 어때?
     나 : 이번주 '지역'날씨는 어떠니?
 
-## 어댑터
+### 어댑터
 
 어댑터는 gbot의 서비스를 제공할 인터페이스 입니다.
 저는 이것을 페이스북에 연동하였습니다.
 
+### 참고자료
 
-
-[heroku-node-docs]: http://devcenter.heroku.com/articles/node-js
-[deploy-heroku]: https://github.com/github/hubot/blob/master/docs/deploying/heroku.md
-[deploy-unix]: https://github.com/github/hubot/blob/master/docs/deploying/unix.md
-[deploy-windows]: https://github.com/github/hubot/blob/master/docs/deploying/windows.md
+[9XD봇][9XD] 많은 도움이 되었습니다. 감사드립니다.
