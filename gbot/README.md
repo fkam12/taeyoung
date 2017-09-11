@@ -1,6 +1,8 @@
-# gbot
+# gbot (GO culture 프로젝트의 챗봇) 제작기간 2017.07.01 ~ 2017.09.20
 
-gbot은 [Hubot][hubot] 봇 프레임워크로 제작하였습니다.
+gbot은 [facebook][facebook]에서 만나 보실 수 있습니다.
+
+[Hubot][hubot] 봇 프레임워크로 제작하였습니다.
 
 서버는 [node.js][node.js]로 [Heroku][heroku] (해외 무료 호스팅 서버)를 사용하였습니다.
 
@@ -8,6 +10,7 @@ gbot은 [Hubot][hubot] 봇 프레임워크로 제작하였습니다.
 [heroku]: http://www.heroku.com
 [hubot]: http://hubot.github.com
 [node.js]: https://nodejs.org/ko/
+[facebook]: https://www.facebook.com/messages/t/1504573752914456
 
 ### Running gbot Locally
 
