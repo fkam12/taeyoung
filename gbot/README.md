@@ -40,3 +40,5 @@ gbot 사용 설명서 `도움`.
 ### 참고자료
 
 [9XD봇][9XD] 많은 도움이 되었습니다. 감사드립니다.
+
+[9XD]: https://github.com/qkraudghgh/9xd-bot
