@@ -1,4 +1,4 @@
-# gbot (GO culture 프로젝트의 챗봇)
+# gbot
 ### 제작기간 2017.07.01 ~ 2017.09.20
 
 gbot은 규칙 기반의 챗봇입니다. [facebook][facebook]에서 만나 보실 수 있습니다.
